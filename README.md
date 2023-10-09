@@ -28,24 +28,6 @@ You can try the live demo [here](link-to-your-live-demo).
 - **Responsive Highlighting**: The highlighting is responsive and works even when you scroll up or down the page.
 - **Dynamic Effect**: The effect is achieved using the `getBoundingClientRect` method and coordinates, ensuring accurate highlighting.
 
-## How to Use
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/your-username/follow-along-link-highlighter.git
-
-   
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Make your changes and commit them.
-- Push your changes to your fork.
-- Submit a pull request.
-- Please make sure to follow the code of conduct.
 
 ## License
 
