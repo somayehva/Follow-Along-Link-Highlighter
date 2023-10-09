@@ -2,7 +2,7 @@
 
 A web page that highlights words as you move your mouse cursor over them. The highlight is achieved using the `getBoundingClientRect` method. Even when you scroll up or down, the correct word gets highlighted, providing a responsive and interactive experience.
 
-![Follow Along Link Highlighter Preview](screenshot.png)
+![Follow Along Link Highlighter Preview](https://github.com/somayehva/Follow-Along-Link-Highlighter/blob/main/Follow%20Along%20Link%20Highlighter.png)
 
 ## Table of Contents
 - [Demo](#demo)
