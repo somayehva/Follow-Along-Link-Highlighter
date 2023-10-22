@@ -4,17 +4,10 @@ A web page that highlights words as you move your mouse cursor over them. The hi
 
 ![Follow Along Link Highlighter Preview](https://github.com/somayehva/Follow-Along-Link-Highlighter/blob/main/Follow%20Along%20Link%20Highlighter.png)
 
-## Table of Contents
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
-You can try the live demo [here](link-to-your-live-demo).
+You can try the live demo [here](http://somayeh.me/follow-along-link-highlighter/).
 
 ## Technologies Used
 
@@ -31,4 +24,4 @@ You can try the live demo [here](link-to-your-live-demo).
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
